@@ -1,0 +1,3 @@
+/Users/rohan/Desktop/2036SkeletonCmake/cmake-build-debug/CMakeFiles/2036SkeletonCmake.dir
+/Users/rohan/Desktop/2036SkeletonCmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rohan/Desktop/2036SkeletonCmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
